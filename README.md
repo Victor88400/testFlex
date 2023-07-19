@@ -1,2 +1,2 @@
 # flextest
-flextest readme
+flextest
